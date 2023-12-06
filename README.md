@@ -1,1 +1,2 @@
 # churn-prediction-customer
+This project aims to develop a churn prediction model for customers in a specific industry. Churn refers to customers who are likely to stop using a company's services or products. Leveraging machine learning techniques, the project will analyze historical customer data, identify behavioral patterns indicative of potential churn, and build a prediction model to assist the company in taking appropriate preventive or retention actions.
